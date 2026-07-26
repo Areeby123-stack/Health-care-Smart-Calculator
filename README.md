@@ -56,9 +56,9 @@
 
 ```
 images/
-├── patient_tab.png
-├── bmi_tab.png
-└── bill_tab.png
+├── 1.png
+├── 2.png
+└── 3.png
 ```
 
 ---
