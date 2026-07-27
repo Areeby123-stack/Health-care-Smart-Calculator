@@ -1,6 +1,3 @@
-# Health-care-Smart-Calculator
-<div align="center">
-
 # 🩺 Healthcare Smart Calculator (GUI)
 
 ### A Stylish Desktop Health Utility App — Python + Tkinter
@@ -12,8 +9,6 @@
 ![Version](https://img.shields.io/badge/Version-1.0.0-0369a1?style=for-the-badge)
 
 **A single-file Tkinter desktop app for quick patient health calculations — BMI, age & patient category, temperature conversion, medicine dosage, and a full itemized medicine billing system with a built-in 40+ medicine price reference and one-click live price lookup.**
-
-</div>
 
 ---
 
@@ -51,15 +46,14 @@
 
 ## 🖼️ Preview
 
-> Add your own screenshots here after running the app locally:
-1.png, 2.png, 3.png
+### Home Screen
+![Home Screen](./images/first.png)
 
-```
-images/
-├── 1.png
-├── 2.png
-└── 3.png
-```
+### Patient Information
+![Patient Information](./images/second.png)
+
+### Medicine Bill
+![Medicine Bill](./images/third.png)
 
 ---
 
@@ -75,7 +69,7 @@ images/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<Healthcare-Sart-Calculator>/Healthcare-Smart-Calculator.git
+git clone https://github.com/<your-username>/Healthcare-Smart-Calculator.git
 cd Healthcare-Smart-Calculator
 
 # Run the app (no dependencies to install!)
@@ -116,7 +110,7 @@ or your local pharmacy before billing.
 ```
 healthcare-smart-calculator/
 ├── healthcare_smart_calculator_gui.py   # Complete single-file application
-├── images/                              # Screenshots (optional, for this README)
+├── images/                              # Screenshots (first.png, second.png, third.png)
 └── README.md
 ```
 
@@ -135,11 +129,6 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 ---
 
-<div align="center">
-
 ### ⭐ If you find this project useful, consider giving it a star!
 
 Made with ❤️ using Python & Tkinter
-
-</div>
-
