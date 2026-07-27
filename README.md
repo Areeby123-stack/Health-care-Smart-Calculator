@@ -1,5 +1,5 @@
 # Health-care-Smart-Calculator
-<!-- <div align="center"> -->
+<div align="center">
 
 # 🩺 Healthcare Smart Calculator (GUI)
 
